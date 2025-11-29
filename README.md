@@ -1,7 +1,7 @@
 👋 Hi, I’m @aodev89
 
- - 🌱 I’m currently learning python
- -  ⚡ Fun fact: i am a newbie
+ -  I’m currently learning python
+ -  Fun fact: i am a #newbie
 
 <!---
 aobot89/aobot89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
