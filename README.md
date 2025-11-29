@@ -1,7 +1,6 @@
-👋 Hi, I’m @aobot89
+👋 Hi, I’m @aodev89
 
- - 🌱 I’m currently learning the program language python
- -  💞️ I’m looking to collaborate on small project to begin with
+ - 🌱 I’m currently learning python
  -  ⚡ Fun fact: i am a newbie
 
 <!---
